@@ -1,0 +1,50 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Security & Secrets
+.env
+*.env
+.env.*
+
+# Large binaries (Institutional NAPS2 engine)
+bin/
+naps2/
+*.exe
+*.dll
+
+# Archives and Large Static Media
+*.zip
+*.rar
+*.7z
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Specific Project Blobs
+ll.zip
+ll/
+
+# Uploads and temporary data
+uploads/
+**/uploads/**
+
+# Node dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Archival Persistence
+archival_intelligence.json
+logs/
+*.log
+
+# OS Metadata
+.DS_Store
+Thumbs.db

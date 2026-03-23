@@ -1,0 +1,4 @@
+import client from "./client";
+
+export const getStats = () =>
+  client.get("/api/stats").then((res) => res.data);
