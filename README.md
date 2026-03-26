@@ -1,6 +1,6 @@
-# InfoDoc Engine 🚀 🏢
+# Briefly 🚀 🏢
 
-**InfoDoc Engine** is a high-performance, institutional-grade AI Document Intelligence Platform. It combines advanced OCR technology with neural language models to transform static archival scans into rich, machine-readable intelligence.
+**Briefly** is a high-performance, institutional-grade AI Document Intelligence Platform. It combines advanced OCR technology with neural language models to transform static archival scans into rich, machine-readable intelligence.
 
 ---
 
@@ -72,6 +72,4 @@ Open a separate terminal and run the backend:
 ```bash
 python api.py
 ```
-
----
 
